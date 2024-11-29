@@ -40,3 +40,6 @@ visibility: visible; /* Rend le menu visible */
     90deg
   ); /* Fait pivoter le bouton de menu de 90 degrés lorsqu'il est en état "expanded" */
 }
+.noscroll {
+  overflow: hidden;
+}
