@@ -85,7 +85,7 @@ toggle = document.Quer(".menu-btn"");
 Maintenant changer à `true` l'attribut `"aria-expanded"` de l'élément référencé par la variable `toggle`.
 
 ```js
-toggle______________________________;
+toggle.ariaExpanded = isClosed;
 ```
 
 Le bouton doit tourner de 90 degrés.
